@@ -32,3 +32,7 @@ body{
 .page{
 	height: 300px;
 }
+.text{
+	width: 1600px;
+	margin-left: 130px;
+}
